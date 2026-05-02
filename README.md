@@ -126,5 +126,5 @@ thevioletdaffodil/blind-assistance-system
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/shristy-yadav-a82104242
+- LinkedIn: https://linkedin.com/in/shristy-yadav-a82104242
 - Email: shristyyadav56@gmail.com
