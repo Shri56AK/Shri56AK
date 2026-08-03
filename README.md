@@ -1,9 +1,6 @@
 # Hi, I'm Shristy 👋
 
-Computer Science student at KIIT University with interests in Android development, Machine Learning, Gamification Systems, and Healthcare Technology.
-
-Currently building projects to strengthen Android architecture, Kotlin fundamentals, and open-source contribution skills.
-
+Computer Science student at KIIT University with interests in Machine Learning, Open source contribution, and Healthcare Technology.
 ---
 
 ## About Me
@@ -19,54 +16,13 @@ Currently building projects to strengthen Android architecture, Kotlin fundament
 ## Current Focus
 
 - Android Architecture
-- Kotlin Development
-- Gamification System Design
+- Development
 - Healthcare App Research
-- Open Source Contribution Preparation
-- Building Beginner Android Portfolio Projects
+- Open Source Contribution 
 
 ---
 
 ## Featured Projects
-
-### Habit Tracker Android
-Beginner Android architecture + gamification planning project.
-
-Focus Areas:
-
-- XP system
-- Streak tracking
-- Badge logic
-- MVVM planning
-- Room database design
-
----
-
-### FLW Gamification Research
-Research and planning for a gamification module designed for healthcare field workers.
-
-Focus Areas:
-
-- Gamification mechanics
-- Offline-first architecture
-- Engagement metrics
-- Database planning
-- Android architecture research
-
----
-
-### Kotlin Learning Playground
-Structured Kotlin learning repository covering:
-
-- Kotlin basics
-- Coroutines
-- Flow / StateFlow
-- Room Database
-- MVVM
-- Dependency Injection
-- Clean Architecture
-
----
 
 ## Collaborative Projects
 
@@ -90,19 +46,10 @@ thevioletdaffodil/blind-assistance-system
 
 ### Languages
 
-- Kotlin
 - Python
-- Java
+- Java/C
 - SQL
-
-### Android
-
-- MVVM Architecture
-- Room Database
-- Coroutines
-- Flow / StateFlow
-- WorkManager
-- Hilt Dependency Injection
+- Golang(Learning)
 
 ### AI / Research
 
@@ -117,8 +64,7 @@ thevioletdaffodil/blind-assistance-system
 ## Goals
 
 - Contribute to open source
-- Build production-style Android apps
-- Improve Android architecture understanding
+- Build production-style apps
 - Combine AI + Healthcare + Mobile Systems
 - Strengthen real-world software engineering skills
 
