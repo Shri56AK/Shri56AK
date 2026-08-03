@@ -15,8 +15,8 @@ Computer Science student at KIIT University with interests in Machine Learning, 
 
 ## Current Focus
 
-- Android Architecture
-- Development
+- Research and Astrophysics
+- Sustainable Development
 - Healthcare App Research
 - Open Source Contribution 
 
