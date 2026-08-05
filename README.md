@@ -1,24 +1,29 @@
 # Hi, I'm Shristy 👋
 
 Computer Science student at KIIT University with interests in Machine Learning, Open source contribution, and Healthcare Technology.
+
 ---
 
 ## About Me
-
 - B.Tech Computer Science & Systems Engineering — KIIT University
 - IEEE Published Researcher
-- Exploring Android + Kotlin Development
+- Contributing to CNCF Meshery (meshery.io)
 - Interested in Gamification, Healthcare Apps, AI, and Open Source
-- Learning MVVM, Room Database, WorkManager, Flow, and Dependency Injection
+- Learning Golang and Kubernetes fundamentals
+
+---
+
+## Open Source Contributions
+- 🔧 **[meshery/meshery.io #2842](https://github.com/meshery/meshery.io/pull/2842)** — Fixed inconsistent alignment and typography on the LFX project page *(merged, +193/-58)*
+- 🔧 **[meshery/meshery.io](https://github.com/meshery/meshery.io/pulls?q=is%3Apr+author%3AShri56AK)** — Removed duplicate DigitalOcean icons from the custom-models collection *(merged)*
 
 ---
 
 ## Current Focus
-
 - Research and Astrophysics
 - Sustainable Development
 - Healthcare App Research
-- Open Source Contribution 
+- Open Source Contribution — CNCF Meshery
 
 ---
 
@@ -30,14 +35,12 @@ Computer Science student at KIIT University with interests in Machine Learning, 
 Collaborative accessibility-focused AI project designed to assist visually impaired users using real-time object detection.
 
 Worked on:
-
 - Project collaboration
 - System planning
 - Object detection workflow
 - Repository contribution
 
 Repository:
-
 thevioletdaffodil/blind-assistance-system
 
 ---
@@ -45,14 +48,13 @@ thevioletdaffodil/blind-assistance-system
 ## Tech Stack
 
 ### Languages
-
 - Python
 - Java/C
 - SQL
-- Golang(Learning)
+- Golang (Learning)
+- JavaScript/CSS
 
 ### AI / Research
-
 - Machine Learning
 - Deep Learning
 - NLP
@@ -62,7 +64,6 @@ thevioletdaffodil/blind-assistance-system
 ---
 
 ## Goals
-
 - Contribute to open source
 - Build production-style apps
 - Combine AI + Healthcare + Mobile Systems
@@ -71,6 +72,5 @@ thevioletdaffodil/blind-assistance-system
 ---
 
 ## Connect
-
 - LinkedIn: https://linkedin.com/in/shristy-yadav-a82104242
 - Email: shristyyadav56@gmail.com
